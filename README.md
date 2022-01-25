@@ -1,1 +1,1 @@
-Hi, I'm Jana Vrbka. I have over 4 years of experience as a knowledge manager. Check out the Portfolio repository for a samples of my work.
+Portfolio contains samples of my earlier writing prior to joining Red Hat. Can't wait to see how it evolves!
